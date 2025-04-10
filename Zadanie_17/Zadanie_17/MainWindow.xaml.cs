@@ -1020,3 +1020,4 @@ namespace Zadanie_17
         #endregion
     }
 }
+.
